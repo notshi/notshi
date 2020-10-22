@@ -1,8 +1,9 @@
-![weirdspace](https://user-images.githubusercontent.com/1515961/96931165-c82d1a80-14b4-11eb-9136-788c1886b303.jpeg)
-
+![drift_bw](https://user-images.githubusercontent.com/1515961/96931454-4093db80-14b5-11eb-97ff-64f98f3ceae3.jpg)
 
 <!--
 **notshi/notshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--![weirdspace](https://user-images.githubusercontent.com/1515961/96931165-c82d1a80-14b4-11eb-9136-788c1886b303.jpeg)
 
 ### Hi there 👋
 Here are some ideas to get you started:
