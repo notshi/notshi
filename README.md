@@ -1,8 +1,10 @@
-### Hi there 👋
+![weirdspace](https://user-images.githubusercontent.com/1515961/96931165-c82d1a80-14b4-11eb-9136-788c1886b303.jpeg)
+
 
 <!--
 **notshi/notshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
